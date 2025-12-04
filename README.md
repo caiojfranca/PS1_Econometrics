@@ -18,5 +18,5 @@ As soluções foram desenvolvidas em grupo por:
 
 **Econometria I**  
 Mestrado Acadêmico em Economia — EPGE/FGV  
-Professor: Andrea María Flores Majano
-Teaching Assistant (TA): Taric Latif
+- Professor: Andrea María Flores Majano
+- Teaching Assistant (TA): Taric Latif
